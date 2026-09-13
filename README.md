@@ -86,8 +86,7 @@ El informe contiene la descripción del sistema, desarrollo matemático de la si
 
 ## Autores
 
-**David Maximiliano Sotar Maidana**
-**Tomás Mauricio Suárez**
+**Tomás Mauricio Suárez - David Maximiliano Sotar Maidana**
 
 Ingeniería Mecatrónica — Universidad Nacional de Cuyo
 Mendoza, Argentina — 2024
